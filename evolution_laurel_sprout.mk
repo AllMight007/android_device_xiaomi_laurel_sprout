@@ -28,7 +28,7 @@ $(call inherit-product, $(LOCAL_PATH)/device.mk)
 PRODUCT_BRAND := Xiaomi
 PRODUCT_DEVICE := laurel_sprout
 PRODUCT_MANUFACTURER := Xiaomi
-PRODUCT_NAME := laurel_sprout
+PRODUCT_NAME := evolution_laurel_sprout
 PRODUCT_MODEL := Mi A3
 
 PRODUCT_GMS_CLIENTID_BASE := android-xiaomi
